@@ -6,8 +6,8 @@
 // ================================
 // WIFI - STATION MODE
 // ================================
-const char* ssid = "CATS-Hotspot";
-const char* password = "Your Password";
+const char* ssid = "YOUR_HOTSPOT_NAME";
+const char* password = "YOUR_HOTSPOT_PASSWORD";
 
 IPAddress local_IP(10, 42, 0, 5);   // outside the Pi's DHCP pool (10.42.0.10-254)
 IPAddress gateway(10, 42, 0, 1);    // the Raspberry Pi
