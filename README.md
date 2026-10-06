@@ -1,7 +1,11 @@
 # C.A.T.S.: Search and Rescue Robot System
 
 An adaptive search-and-rescue robotic car built as an academic thesis project. A phone app drives the robot, streams its live camera feed with on-board human/animal detection, and supports two-way audio so rescuers can talk to and listen around the robot.
+![The C.A.T.S. robot](images/robot.jpg)
 
+![App control screen](images/app-controls.png)
+
+![Live detection](images/detection.png)
 ## Features
 
 - **Remote driving** from an Android app, with held-button control, three speed modes, and a deadman safety that stops the motors if the connection drops
